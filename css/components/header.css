@@ -103,11 +103,6 @@
 		text-align: center;
 	}
 
-	.nav-center, .nav-right{
-		width: 100%;
-		text-align: center;
-	}
-
 	.nav-center ul, .nav-right ul{
 		flex-direction: column;
 		gap: 1.5rem;
